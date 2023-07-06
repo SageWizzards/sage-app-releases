@@ -1,19 +1,19 @@
 {
-  "version": "0.4.1",
-  "notes": "See the assets to download and install this version.",
-  "pub_date": "2023-07-05T04:37:57.415Z",
+  "version": "0.4.2",
+  "notes": "Improved UI and UX experience 🎉",
+  "pub_date": "2023-07-06T15:24:13.742Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVA2V09ZY3ZGWitGL3N6c1BkcnVSMGUydUlJRHVKVjdTTnkvWTBIazYyYUl4SjNKRk1DSFN0dFBOTm50MU1xUTVML2RFQWlXdTB6ckJOL0hmMTRJVHpoY3ZGNnlnL0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4NTMxNjk3CWZpbGU6U2FnZSBBcHAuYXBwLnRhci5negpUZGM4WkNSQ0c3NTFJWWM1SDljVU5Sbm0wZkpRbjZmRVZtejk5MmkyYWhIN2UzZ1JuckUxUnRkOHBxOHlPMm1Sa2hkR0JwZHFVc1loS2tULy9tY2VBQT09Cg==",
-      "url": "https://github.com/SageWizzards/sage-app-releases/releases/download/v0.4.1/Sage.App_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVA2V09ZY3ZGWjgzejE0SjVVUjgydXJmK3JjRXNSaHZFamJlb2NhRUE2djZRUmhUL0c0aGxKWnFiSGNBNGYrekNHVmp1VytyWnM2TjFEWlRvbFpWNll1TGQ5NVd1NWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4NjU2OTU2CWZpbGU6U2FnZSBBcHAuYXBwLnRhci5negpBTWtiNXl5VGllL0Fqb0M0VDZXNzlCTTRwSHJKMXBqb2lxR1Rwb3h5SjA2cG9kY3luM2crMzR6YmEwZ25OWUx3cWxvekRoSUlSNE5CMlI4Ui91WlVEZz09Cg==",
+      "url": "https://github.com/SageWizzards/sage-app-releases/releases/download/v0.4.2/Sage.App_x64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVA2V09ZY3ZGWjFjVHBuKzIwWGRvWGREUWpGS3hzN2xQYkhRZ0dXQzFoUzBFdXdvaVBLOUdETW5yNGp6d1poNVhmMVhNZzBhN3R6UmI3clRrMU03TlZ2dS9hbW92M3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4NTMxODY2CWZpbGU6c2FnZS1hcHBfMC40LjFfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Ci9jUjZzWkgzSEFPakJQd2ZXQU1DU0RPbEhFbzVlV1p5VFI0dHdHVXdJZURZOFdMQnZZMXdKT3FOZVFRWmpIOVpoTnFEOFVnYW5oZGczS2xLWkN5akR3PT0K",
-      "url": "https://github.com/SageWizzards/sage-app-releases/releases/download/v0.4.1/sage-app_0.4.1_amd64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVA2V09ZY3ZGWndXSE10S0RxVUVFYWxER3lTaVV4cTN5cnlET25BWm9VRm9FcFZwQmVFUW5vcjlHdDdkUEhWSUx1N252QUtnL0pNZWFBN0I2NFNIakhucWhzektCMXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4NjU2OTY3CWZpbGU6c2FnZS1hcHBfMC40LjJfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CnFlU0htQ3FTVlRXMGdzdCtacEowVlRtQVVkWGlRdGU3VWgwaHV5Sk5BNGprOWtIS1J2S3JmREVFZXBEYWRZRzM1TklqK1RJUWxVUVB3dm9UOXFKaUJBPT0K",
+      "url": "https://github.com/SageWizzards/sage-app-releases/releases/download/v0.4.2/sage-app_0.4.2_amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVA2V09ZY3ZGWjhZZkp2bWJKMkRTamFRK2lkbUprUXNuWE5VYWllTjZPOWxmT2Q3NVFrZ1l6MmVyZWh4cWZmbnZWeEhMUFI4VnNuaHhRbllCbG9kVzFub25UdlBtbUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4NTMxODcyCWZpbGU6U2FnZSBBcHBfMC40LjFfeDY0X2VuLVVTLm1zaS56aXAKN1M5REdjbkNDRklmOGEyNkkxTy91cG1hYU5lckNkOE1HMWNmRnd3VTArYjBpemQzYmZvbXg4SFBJRWFIU3dNTy9vS1dRdDRsS0hKd2hKVlVCRE80Q3c9PQo=",
-      "url": "https://github.com/SageWizzards/sage-app-releases/releases/download/v0.4.1/Sage.App_0.4.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVA2V09ZY3ZGWjd4T09IUk5hb25xemF1WkNiKzNuZExNWndES2tENDFTVGJkTU1rSzJhRER2TXk2SWM3KytYNkcvT214QW9HTFVKbFdxS2lPWEd4cEt3Yi9FSXhZd2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4NjU3MDQ2CWZpbGU6U2FnZSBBcHBfMC40LjJfeDY0X2VuLVVTLm1zaS56aXAKM0pUaUV6dGVYWlJJZ29iVVp6UjJjanVHdytOV1JZTnJrcGc1d1ByUUJVa3kyQ3lZN1hMYUhDRmtnRGM4TVRHSCtMaGhRK05RcldQTCtVTGdkbDZiQ0E9PQo=",
+      "url": "https://github.com/SageWizzards/sage-app-releases/releases/download/v0.4.2/Sage.App_0.4.2_x64_en-US.msi.zip"
     }
   }
 }
