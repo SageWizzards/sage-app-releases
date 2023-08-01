@@ -3,6 +3,10 @@
   "notes": "Improved UI and UX experience 🎉, desktop app implemented",
   "pub_date": "2023-07-24T15:24:13.742Z",
   "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVA2V09ZY3ZGWjJyZ3ZtMWE0YXBBVmx4aHhNa2VWRWVaMHNNL2x0YVZRWk1TSENjSS9WTU5HVnRldWI0aC83MWFXSGNmYXMzUzFyWWlqclRaVFBsdk9oNmYxOCszWlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkwODYzMjExCWZpbGU6U2FnZSBBcHAuYXBwLnRhci5negp5QkpFTEFjVHY3OERCNnpGRFIwcnY3RUV3WDF5K2VuUGdDTVlwcDhrUXNMZjgzT0F0b1NFcWg0dFpBVEdsQlFFUDVaQUVBZUVVL3ZVUllEcWJneDNCQT09Cg==",
+      "url": "https://github.com/SageWizzards/sage-app-releases/releases/download/v0.4.4/Sage.App_x64.app.tar.gz"
+    },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVA2V09ZY3ZGWjJyZ3ZtMWE0YXBBVmx4aHhNa2VWRWVaMHNNL2x0YVZRWk1TSENjSS9WTU5HVnRldWI0aC83MWFXSGNmYXMzUzFyWWlqclRaVFBsdk9oNmYxOCszWlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkwODYzMjExCWZpbGU6U2FnZSBBcHAuYXBwLnRhci5negp5QkpFTEFjVHY3OERCNnpGRFIwcnY3RUV3WDF5K2VuUGdDTVlwcDhrUXNMZjgzT0F0b1NFcWg0dFpBVEdsQlFFUDVaQUVBZUVVL3ZVUllEcWJneDNCQT09Cg==",
       "url": "https://github.com/SageWizzards/sage-app-releases/releases/download/v0.4.4/Sage.App_x64.app.tar.gz"
